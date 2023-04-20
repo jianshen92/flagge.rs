@@ -1,6 +1,7 @@
 # Flagge.rs
 Inspired by https://github.com/openflagr/flagr
-Hobby Project to learn Rust. Do not use in production -- yet.
+
+My hobby project to learn Rust. Do not use in production -- yet.
 
 ## What?
 * Runs on Actix Web
